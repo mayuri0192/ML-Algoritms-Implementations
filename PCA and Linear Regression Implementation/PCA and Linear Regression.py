@@ -4,7 +4,6 @@ Created on Fri Nov 17 22:51:20 2017
 
 @author: Mayuri Deshpande
 Student Id: 800972831
-Question 1 and Question 2 code
 """
 import numpy as np
 import matplotlib.pyplot as plt
