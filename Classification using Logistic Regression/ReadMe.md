@@ -1,4 +1,4 @@
-classification using logistic regression :
+Classification using logistic regression :
 
 Dataset: iris
 
