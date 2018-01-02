@@ -1,6 +1,6 @@
 PCA and linear regression modules Implementation: 
 
-data: data.csv (data.csv contains x, y, and y_theoretical)
+data: linear_regression_test_data.csv (data.csv contains x, y, and y_theoretical)
 
 Performed PCA on x and y and plotted y vs x, y-theoretical vs x, and the PC1 axis in the same plot.
 
