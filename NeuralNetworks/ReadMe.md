@@ -1,4 +1,4 @@
-Implement your own neural network for regression purpose in Python
+Implemented neural network for regression purpose in Python
 using mean squared error as the cost function.
 
 The neural network has two input units (not counting the bias unit), one hidden layer
