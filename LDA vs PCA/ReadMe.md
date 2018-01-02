@@ -3,6 +3,7 @@ Implementation of PCA and LDA in Python
 Dataset: dataset_1.csv, columns correspond to variables and there are two variables named V1 and V2.
 
 Questions: (All questions answered in PCA_LDA.py)
+
 (1) Plot V2 vs V1. Do you see a clear separation of the raw data?
 
 (2) Apply your own PCA function to this dataset without scaling the two variables. 
