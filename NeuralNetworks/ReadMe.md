@@ -13,4 +13,4 @@ y =[ 0:01
 
 theta(1) and theta(2) are initialized to be uniformly distributed random numbers between
 0.0 and 1.0.
-Plotted the total cost vs the iterations as well as every parameter  vs the iterations.
+Plotted the total cost vs the iterations as well as every parameter theta vs the iterations.
