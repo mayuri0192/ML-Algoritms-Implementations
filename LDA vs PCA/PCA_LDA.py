@@ -85,6 +85,7 @@ def do_LDA(X,y):
     
       
     projection = np.matmul(X, W)
+    #Question 8
     print('variance of the projections onto the W axis',np.var(projection))
     #5.22507522401
     
@@ -152,7 +153,7 @@ def main():
     plt.xlabel('V1')
     plt.ylabel('V2')
 
-    #Question 7: 
+    #Question 9: 
     #PCA is unsupervised and LDA is supervised
     #PCA projected axes are selected based on maximum variance 
     #LDA axes are selected in such a way that the interclass distance is maximized whereas the intraclass distance is minimized
